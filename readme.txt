@@ -4,7 +4,7 @@ Donate link: http://www.r-ako.com
 Tags: form
 Requires at least: 3.5
 Tested up to: 4.1
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -31,6 +31,10 @@ none
 none
 
 == Changelog ==
+
+**1.0.2 - JAN 28, 2015**
+
+Update readme.txt
 
 **1.0.1 - JAN 28, 2015**
 
