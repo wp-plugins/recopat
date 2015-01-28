@@ -32,7 +32,11 @@ none
 
 == Changelog ==
 
-**1.0 - JAN 28, 2015**
+**1.0.1 - JAN 28, 2015**
+
+Update readme.txt
+
+**1.0.0 - JAN 28, 2015**
 
 Initial release.
 
