@@ -4,7 +4,7 @@ Donate link: http://www.r-ako.com
 Tags: form
 Requires at least: 3.5
 Tested up to: 4.1
-Stable tag: 1.0.0
+Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -13,7 +13,7 @@ So that you can display the form that you created in recopat. recopat is a simpl
 == Description ==
 
 So that you can display the form that you created in recopat. recopat is a simple form creation services.
-[日本語の説明を読む](http://http://recopat.r-ako.com/faq.php#q26)
+[日本語の説明を読む](http://recopat.r-ako.com/faq.php#q26)
 
 == Installation ==
 
