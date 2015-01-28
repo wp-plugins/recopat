@@ -13,7 +13,7 @@ So that you can display the form that you created in recopat. recopat is a simpl
 == Description ==
 
 So that you can display the form that you created in recopat. recopat is a simple form creation services.
-[日本語の説明を読む](http://http://recopat.r-ako.com/faq.php#q26/)
+[日本語の説明を読む](http://http://recopat.r-ako.com/faq.php#q26)
 
 == Installation ==
 
@@ -32,7 +32,9 @@ none
 
 == Changelog ==
 
-**1.0 - JAN 26, 2015**
+**1.0.0 - JAN 28, 2015**
+
+Initial release.
 
 == Upgrade notice ==
 
